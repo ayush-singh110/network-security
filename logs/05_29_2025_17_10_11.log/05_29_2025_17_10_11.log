@@ -1,7 +1,0 @@
-[2025-05-29 17:10:11,881 ] 148 numexpr.utils - INFO - Note: NumExpr detected 16 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
-[2025-05-29 17:10:11,881 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
-[2025-05-29 17:10:13,607 ] 13 root - INFO - Initiate the data ingestion
-[2025-05-29 17:11:12,211 ] 58 root - INFO - Performed train test split on dataframe
-[2025-05-29 17:11:12,211 ] 60 root - INFO - Exited split_data_as_train_test method of Data_Ingestion class
-[2025-05-29 17:11:12,211 ] 65 root - INFO - Exporting train and test file path
-[2025-05-29 17:11:15,242 ] 72 root - INFO - Exported train and test file path
