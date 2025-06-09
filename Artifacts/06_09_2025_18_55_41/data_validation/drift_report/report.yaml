@@ -1,0 +1,336 @@
+asn_ip:
+  drift_status: false
+  p_value: 0.4144244218539712
+directory_length:
+  drift_status: false
+  p_value: 0.9999775841772292
+domain_google_index:
+  drift_status: false
+  p_value: 1.0
+domain_in_ip:
+  drift_status: false
+  p_value: 1.0
+domain_length:
+  drift_status: false
+  p_value: 0.19674532235653253
+domain_spf:
+  drift_status: false
+  p_value: 0.9034228588851977
+email_in_url:
+  drift_status: false
+  p_value: 0.999999999458159
+file_length:
+  drift_status: false
+  p_value: 0.9999770346398466
+length_url:
+  drift_status: false
+  p_value: 0.9761154138918956
+params_length:
+  drift_status: false
+  p_value: 0.9999539510549766
+phishing:
+  drift_status: false
+  p_value: 0.9999999998115073
+qty_and_directory:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_and_domain:
+  drift_status: false
+  p_value: 1.0
+qty_and_file:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_and_params:
+  drift_status: false
+  p_value: 0.9999640486519884
+qty_and_url:
+  drift_status: false
+  p_value: 0.9999999999997512
+qty_asterisk_directory:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_asterisk_domain:
+  drift_status: false
+  p_value: 1.0
+qty_asterisk_file:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_asterisk_params:
+  drift_status: false
+  p_value: 0.9999640486519884
+qty_asterisk_url:
+  drift_status: false
+  p_value: 1.0
+qty_at_directory:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_at_domain:
+  drift_status: false
+  p_value: 1.0
+qty_at_file:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_at_params:
+  drift_status: false
+  p_value: 0.9999640486519884
+qty_at_url:
+  drift_status: false
+  p_value: 0.9999999566346879
+qty_comma_directory:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_comma_domain:
+  drift_status: false
+  p_value: 1.0
+qty_comma_file:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_comma_params:
+  drift_status: false
+  p_value: 0.9999640486519884
+qty_comma_url:
+  drift_status: false
+  p_value: 1.0
+qty_dollar_directory:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_dollar_domain:
+  drift_status: false
+  p_value: 1.0
+qty_dollar_file:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_dollar_params:
+  drift_status: false
+  p_value: 0.9999640486519884
+qty_dollar_url:
+  drift_status: false
+  p_value: 1.0
+qty_dot_directory:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_dot_domain:
+  drift_status: false
+  p_value: 0.5557417790007462
+qty_dot_file:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_dot_params:
+  drift_status: false
+  p_value: 0.9999640486519884
+qty_dot_url:
+  drift_status: false
+  p_value: 0.9891511561175487
+qty_equal_directory:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_equal_domain:
+  drift_status: false
+  p_value: 1.0
+qty_equal_file:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_equal_params:
+  drift_status: false
+  p_value: 0.9999640486519884
+qty_equal_url:
+  drift_status: false
+  p_value: 0.9999999325210202
+qty_exclamation_directory:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_exclamation_domain:
+  drift_status: false
+  p_value: 1.0
+qty_exclamation_file:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_exclamation_params:
+  drift_status: false
+  p_value: 0.9999640486519884
+qty_exclamation_url:
+  drift_status: false
+  p_value: 1.0
+qty_hashtag_directory:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_hashtag_domain:
+  drift_status: false
+  p_value: 1.0
+qty_hashtag_file:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_hashtag_params:
+  drift_status: false
+  p_value: 0.9999640486519884
+qty_hashtag_url:
+  drift_status: false
+  p_value: 1.0
+qty_hyphen_directory:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_hyphen_domain:
+  drift_status: false
+  p_value: 1.0
+qty_hyphen_file:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_hyphen_params:
+  drift_status: false
+  p_value: 0.9999640486519884
+qty_hyphen_url:
+  drift_status: false
+  p_value: 0.9999999999975223
+qty_ip_resolved:
+  drift_status: false
+  p_value: 0.999999981746582
+qty_mx_servers:
+  drift_status: false
+  p_value: 0.4461025115042838
+qty_nameservers:
+  drift_status: false
+  p_value: 0.5597282162506634
+qty_params:
+  drift_status: false
+  p_value: 0.9999640486519884
+qty_percent_directory:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_percent_domain:
+  drift_status: false
+  p_value: 1.0
+qty_percent_file:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_percent_params:
+  drift_status: false
+  p_value: 0.9999640486519884
+qty_percent_url:
+  drift_status: false
+  p_value: 1.0
+qty_plus_directory:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_plus_domain:
+  drift_status: false
+  p_value: 1.0
+qty_plus_file:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_plus_params:
+  drift_status: false
+  p_value: 0.9999640486519884
+qty_plus_url:
+  drift_status: false
+  p_value: 1.0
+qty_questionmark_directory:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_questionmark_domain:
+  drift_status: false
+  p_value: 1.0
+qty_questionmark_file:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_questionmark_params:
+  drift_status: false
+  p_value: 0.9999640486519884
+qty_questionmark_url:
+  drift_status: false
+  p_value: 1.0
+qty_redirects:
+  drift_status: false
+  p_value: 0.8866632748566952
+qty_slash_directory:
+  drift_status: false
+  p_value: 0.9990985202743006
+qty_slash_domain:
+  drift_status: false
+  p_value: 1.0
+qty_slash_file:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_slash_params:
+  drift_status: false
+  p_value: 0.9999640486519884
+qty_slash_url:
+  drift_status: false
+  p_value: 0.9866136945604156
+qty_space_directory:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_space_domain:
+  drift_status: false
+  p_value: 1.0
+qty_space_file:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_space_params:
+  drift_status: false
+  p_value: 0.9999640486519884
+qty_space_url:
+  drift_status: false
+  p_value: 1.0
+qty_tilde_directory:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_tilde_domain:
+  drift_status: false
+  p_value: 1.0
+qty_tilde_file:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_tilde_params:
+  drift_status: false
+  p_value: 0.9999640486519884
+qty_tilde_url:
+  drift_status: false
+  p_value: 1.0
+qty_tld_url:
+  drift_status: false
+  p_value: 0.9999999999999978
+qty_underline_directory:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_underline_domain:
+  drift_status: false
+  p_value: 1.0
+qty_underline_file:
+  drift_status: false
+  p_value: 0.999999999990917
+qty_underline_params:
+  drift_status: false
+  p_value: 0.9999640486519884
+qty_underline_url:
+  drift_status: false
+  p_value: 0.9999999999992037
+qty_vowels_domain:
+  drift_status: false
+  p_value: 0.14264411139502065
+server_client_domain:
+  drift_status: false
+  p_value: 1.0
+time_domain_activation:
+  drift_status: false
+  p_value: 0.48541905126927964
+time_domain_expiration:
+  drift_status: false
+  p_value: 0.19387061958639484
+time_response:
+  drift_status: false
+  p_value: 0.8690519326396712
+tld_present_params:
+  drift_status: false
+  p_value: 0.9999640486519884
+tls_ssl_certificate:
+  drift_status: false
+  p_value: 0.9988856346847212
+ttl_hostname:
+  drift_status: false
+  p_value: 0.4377947508145048
+url_google_index:
+  drift_status: false
+  p_value: 1.0
+url_shortened:
+  drift_status: false
+  p_value: 1.0
